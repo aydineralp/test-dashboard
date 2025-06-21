@@ -1,0 +1,12 @@
+# Ortak klasörler
+node_modules/
+.env
+build/
+dist/
+
+# VSCode dosyaları
+.vscode/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
